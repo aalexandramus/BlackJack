@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1515615516 source:d:\facultate\c\alin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"constante.h"
+	"functii.h"
+	"structuri.h"
+
+1515434035 d:\facultate\c\alin\constante.h
+
+1515615516 d:\facultate\c\alin\functii.h
+	"structuri.h"
+
+1515614366 d:\facultate\c\alin\structuri.h
+
+1515615516 source:d:\facultate\anul 1 - semestrul 1\programarea calculatoarelor\c codeblocks\alin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"constante.h"
+	"functii.h"
+	"structuri.h"
+
+1515434035 d:\facultate\anul 1 - semestrul 1\programarea calculatoarelor\c codeblocks\alin\constante.h
+
+1515615516 d:\facultate\anul 1 - semestrul 1\programarea calculatoarelor\c codeblocks\alin\functii.h
+	"structuri.h"
+
+1515614366 d:\facultate\anul 1 - semestrul 1\programarea calculatoarelor\c codeblocks\alin\structuri.h
+
